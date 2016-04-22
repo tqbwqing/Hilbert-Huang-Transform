@@ -3,12 +3,12 @@ Hilbert-Huang Transform
 
 MATLAB codes
 
-eemd.m Ensemble 
+* eemd.m 
 
-HilbertSpectrum.m 
+* HilbertSpectrum.m 
 
-HilbertSpectrumExamples.m *
+* HilbertSpectrumExamples.m **
 
-HilbertSpectrumValidation.m *
+* HilbertSpectrumValidation.m **
 
-  * need improvement
+** need improvement
